@@ -18,12 +18,9 @@ This Movie Recommendation System is a Python-based application that utilizes the
 
 ## Features
 
-- User registration and login for personalized recommendations.
 - Movie rating and review system for capturing user preferences.
 - Recommendation generation based on k-NN algorithm.
-- Interactive command-line interface for ease of use.
-- Easily extensible and customizable for different datasets and use cases.
-
+  
 ## Requirements
 
 To run this Movie Recommendation System, you'll need the following dependencies:
@@ -32,13 +29,16 @@ To run this Movie Recommendation System, you'll need the following dependencies:
 - NumPy
 - pandas
 - scikit-learn
-- SQLite (for database storage)
-- tqdm (for progress bars, optional)
+- json
+- matplotlib
+- nltk
+- operator
+- seaborn
 
 You can install the required Python packages using `pip`:
 
 ```bash
-pip install numpy pandas scikit-learn sqlite3 tqdm
+pip install numpy pandas scikit-learn json matplotlib nltk operator seaborn
 ```
 
 ## Installation
@@ -46,13 +46,13 @@ pip install numpy pandas scikit-learn sqlite3 tqdm
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/movie-recommendation-knn.git
+git clone https://github.com/yogee2904/Recommended-System.git
 ```
 
 2. Change to the project directory:
 
 ```bash
-cd movie-recommendation-knn
+cd Recommended-System
 ```
 
 3. Create a virtual environment (optional but recommended):
