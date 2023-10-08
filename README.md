@@ -107,7 +107,3 @@ The dataset should have the following columns:
 ## Algorithm
 
 The recommendation system is based on the k-Nearest Neighbors (k-NN) algorithm. It identifies users with similar movie preferences to recommend movies that those users have liked but the current user has not yet seen.
-
----
-
-Feel free to customize this README to match your specific project's details and requirements. Include additional sections or details as needed to make it informative and user-friendly.
