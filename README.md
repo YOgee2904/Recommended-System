@@ -13,8 +13,6 @@ This Movie Recommendation System is a Python-based application that utilizes the
 - [Usage](#usage)
 - [Dataset](#dataset)
 - [Algorithm](#algorithm)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -109,14 +107,6 @@ The dataset should have the following columns:
 ## Algorithm
 
 The recommendation system is based on the k-Nearest Neighbors (k-NN) algorithm. It identifies users with similar movie preferences to recommend movies that those users have liked but the current user has not yet seen.
-
-## Contributing
-
-Contributions to this project are welcome! Feel free to submit bug reports, feature requests, or pull requests.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
